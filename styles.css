@@ -154,12 +154,5 @@ a:hover {
     text-align: center;
     width: 100%;
   }
-  .menu-card {
-    text-align: center;
-    padding: 20px;
-    background-color: rgb(110, 84, 49);
-    width: 260px;
-    margin-top: 30px;
-    border-radius: 15px;
-  }
+ 
 }
