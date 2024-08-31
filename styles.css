@@ -11,7 +11,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  background:linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("StockCake-Feast\ of\ Flavors_1722171455.jpg") no-repeat center center fixed;
+  background: url("StockCake-Feast\ of\ Flavors_1722171455.jpg") no-repeat center center fixed;
   background-size: cover;
   color: var(--text-color);
   margin: 0;
